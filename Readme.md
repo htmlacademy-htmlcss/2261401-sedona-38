@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Руслан Кадыров](https://up.htmlacademy.ru/htmlcss/38/user/2261401).
-* Наставник: `Неизвестно`.
+- Студент: [Руслан Кадыров](https://up.htmlacademy.ru/htmlcss/38/user/2261401).
+- Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
